@@ -1,5 +1,6 @@
 const {createReadStream} = require('fs')
 
+//creating a stream to read larger files
 const stream = createReadStream('./content/big.txt')
 
 stream.on('data',(result)=>{
