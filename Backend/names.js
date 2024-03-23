@@ -1,5 +1,5 @@
 const secret="SUPER SECRET"
-const john="john"
-const peter="peter"
+const swetha="swetha"
+const sruthi="sruthi"
 
-module.exports  = {john,peter}
+module.exports  = {swetha,sruthi}
