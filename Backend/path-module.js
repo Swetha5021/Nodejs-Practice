@@ -1,6 +1,7 @@
 const path = require('path')
 console.log(path.sep);
 
+// to join the file path
 const filePath = path.join('/content','subfolder','test.txt')
 console.log(filePath);
 
