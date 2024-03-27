@@ -1,4 +1,5 @@
 const path = require('path')
+
 console.log(path.sep);
 
 // to join the file path
