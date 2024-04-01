@@ -9,6 +9,7 @@ const server = http.createServer((req,res)=>{
     }
     else{
     res.end(`
+    
     <h1>Oops!</h1>
     <p>we can't seem to find the page you are looking far...</p>
     <a href="/"> back home </a>
